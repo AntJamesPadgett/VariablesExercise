@@ -1,0 +1,16 @@
+C:\Users\antho\repos\VariablesExercise\bin\Debug\net5.0\VariablesExercise.exe
+C:\Users\antho\repos\VariablesExercise\bin\Debug\net5.0\VariablesExercise.deps.json
+C:\Users\antho\repos\VariablesExercise\bin\Debug\net5.0\VariablesExercise.runtimeconfig.json
+C:\Users\antho\repos\VariablesExercise\bin\Debug\net5.0\VariablesExercise.runtimeconfig.dev.json
+C:\Users\antho\repos\VariablesExercise\bin\Debug\net5.0\VariablesExercise.dll
+C:\Users\antho\repos\VariablesExercise\bin\Debug\net5.0\ref\VariablesExercise.dll
+C:\Users\antho\repos\VariablesExercise\bin\Debug\net5.0\VariablesExercise.pdb
+C:\Users\antho\repos\VariablesExercise\obj\Debug\net5.0\VariablesExercise.csproj.AssemblyReference.cache
+C:\Users\antho\repos\VariablesExercise\obj\Debug\net5.0\VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\VariablesExercise\obj\Debug\net5.0\VariablesExercise.AssemblyInfoInputs.cache
+C:\Users\antho\repos\VariablesExercise\obj\Debug\net5.0\VariablesExercise.AssemblyInfo.cs
+C:\Users\antho\repos\VariablesExercise\obj\Debug\net5.0\VariablesExercise.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\VariablesExercise\obj\Debug\net5.0\VariablesExercise.dll
+C:\Users\antho\repos\VariablesExercise\obj\Debug\net5.0\ref\VariablesExercise.dll
+C:\Users\antho\repos\VariablesExercise\obj\Debug\net5.0\VariablesExercise.pdb
+C:\Users\antho\repos\VariablesExercise\obj\Debug\net5.0\VariablesExercise.genruntimeconfig.cache
